@@ -1,0 +1,6 @@
+{
+  "name": "Rudeus Greyrat",
+  "description": "Cinematic interactive character portfolio & archive for Rudeus Greyrat from Mushoku Tensei, featuring mouse-scrub video, silent casting lore, and arcane typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
